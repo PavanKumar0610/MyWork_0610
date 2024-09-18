@@ -1,3 +1,3 @@
 # MyWork_0610
 This is my first GIT repository
-Auther - Pavan Kumar 
+Author - Pavan Kumar 
